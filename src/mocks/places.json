@@ -1,0 +1,710 @@
+[
+    {
+        "id": 101,
+        "place": "Abreu e lima",
+        "latitude": -7.9068719,
+        "longitude": -34.9025049,
+        "price": "$490.00",
+        "description": "Apartamento com 2 quartos, sala, cozinha, banheiro, área de serviço, 1 vaga de garagem, condomínio com piscina, salão de festas, churrasqueira, quadra poliesportiva, playground, portaria 24 horas, próximo a supermercados, farmácias, padarias, escolas, faculdades, restaurantes, bancos, shopping, etc."
+    },
+    {
+        "id": 1,
+        "place": "Maliang",
+        "latitude": 26.27436,
+        "longitude": 106.586543,
+        "price": "$3.60"
+    },
+    {
+        "id": 2,
+        "place": "Zhougao",
+        "latitude": 30.17106,
+        "longitude": 108.165335,
+        "price": "$3.16"
+    },
+    {
+        "id": 3,
+        "place": "Pare",
+        "latitude": -7.765512,
+        "longitude": 112.197899,
+        "price": "$0.37"
+    },
+    {
+        "id": 4,
+        "place": "Pedinó",
+        "latitude": 40.910754,
+        "longitude": 22.8722799,
+        "price": "$4.31"
+    },
+    {
+        "id": 5,
+        "place": "Baozi",
+        "latitude": 30.131784,
+        "longitude": 120.056029,
+        "price": "$8.31"
+    },
+    {
+        "id": 6,
+        "place": "Samayac",
+        "latitude": 14.5802198,
+        "longitude": -91.4656296,
+        "price": "$3.70"
+    },
+    {
+        "id": 7,
+        "place": "Sumbermanggis",
+        "latitude": -8.4382384,
+        "longitude": 114.0974489,
+        "price": "$7.94"
+    },
+    {
+        "id": 8,
+        "place": "Vårdö",
+        "latitude": 60.2267401,
+        "longitude": 20.3244146,
+        "price": "$7.33"
+    },
+    {
+        "id": 9,
+        "place": "Göteborg",
+        "latitude": 57.7311354,
+        "longitude": 12.0619752,
+        "price": "$6.19"
+    },
+    {
+        "id": 10,
+        "place": "Rozwadza",
+        "latitude": 50.4350286,
+        "longitude": 18.0987896,
+        "price": "$1.24"
+    },
+    {
+        "id": 11,
+        "place": "Mandapajaya",
+        "latitude": -7.1743383,
+        "longitude": 108.5403799,
+        "price": "$1.69"
+    },
+    {
+        "id": 12,
+        "place": "Kaminoyama",
+        "latitude": 38.7333101,
+        "longitude": 141.5437532,
+        "price": "$8.67"
+    },
+    {
+        "id": 13,
+        "place": "San Juan Bautista",
+        "latitude": 14.1386669,
+        "longitude": -90.0034929,
+        "price": "$6.82"
+    },
+    {
+        "id": 14,
+        "place": "Ciloa",
+        "latitude": -6.8561144,
+        "longitude": 107.5193473,
+        "price": "$3.98"
+    },
+    {
+        "id": 15,
+        "place": "Kangmei",
+        "latitude": 35.412337,
+        "longitude": 116.609564,
+        "price": "$9.83"
+    },
+    {
+        "id": 16,
+        "place": "Carpentras",
+        "latitude": 47.7229616,
+        "longitude": 0.0297575,
+        "price": "$4.74"
+    },
+    {
+        "id": 17,
+        "place": "Mtimbira",
+        "latitude": -8.781999,
+        "longitude": 36.3608819,
+        "price": "$1.57"
+    },
+    {
+        "id": 18,
+        "place": "Milíkov",
+        "latitude": 49.5856494,
+        "longitude": 18.7194407,
+        "price": "$7.28"
+    },
+    {
+        "id": 19,
+        "place": "Strogino",
+        "latitude": 55.8024235,
+        "longitude": 37.4219388,
+        "price": "$5.17"
+    },
+    {
+        "id": 20,
+        "place": "Des Moines",
+        "latitude": 41.6,
+        "longitude": -93.61,
+        "price": "$4.56"
+    },
+    {
+        "id": 21,
+        "place": "Galapa",
+        "latitude": 10.898923,
+        "longitude": -74.883823,
+        "price": "$8.04"
+    },
+    {
+        "id": 22,
+        "place": "Winong",
+        "latitude": -7.6695988,
+        "longitude": 109.9526633,
+        "price": "$1.01"
+    },
+    {
+        "id": 23,
+        "place": "Haninge",
+        "latitude": 59.1743158,
+        "longitude": 18.236243,
+        "price": "$8.79"
+    },
+    {
+        "id": 24,
+        "place": "Tadabliro",
+        "latitude": -8.6847,
+        "longitude": 122.2162,
+        "price": "$4.86"
+    },
+    {
+        "id": 25,
+        "place": "Padasuka",
+        "latitude": -6.9042641,
+        "longitude": 107.6474283,
+        "price": "$0.13"
+    },
+    {
+        "id": 26,
+        "place": "Regimin",
+        "latitude": 52.9434371,
+        "longitude": 20.5544716,
+        "price": "$4.55"
+    },
+    {
+        "id": 27,
+        "place": "Postojna",
+        "latitude": 45.7830298,
+        "longitude": 14.2038417,
+        "price": "$5.24"
+    },
+    {
+        "id": 28,
+        "place": "El Quebrachal",
+        "latitude": -38.9719333,
+        "longitude": -68.0439522,
+        "price": "$2.59"
+    },
+    {
+        "id": 29,
+        "place": "Santa Fe de la Vera Cruz",
+        "latitude": -31.6146073,
+        "longitude": -60.7152064,
+        "price": "$5.90"
+    },
+    {
+        "id": 30,
+        "place": "Téra",
+        "latitude": 14.0031627,
+        "longitude": 0.7556575,
+        "price": "$4.46"
+    },
+    {
+        "id": 31,
+        "place": "Tây Ninh",
+        "latitude": 11.3675415,
+        "longitude": 106.1192802,
+        "price": "$7.24"
+    },
+    {
+        "id": 32,
+        "place": "Leones",
+        "latitude": -34.6353335,
+        "longitude": -58.5941325,
+        "price": "$9.66"
+    },
+    {
+        "id": 33,
+        "place": "Nonghe",
+        "latitude": 23.36225,
+        "longitude": 103.374576,
+        "price": "$7.11"
+    },
+    {
+        "id": 34,
+        "place": "Pau",
+        "latitude": 43.2916776,
+        "longitude": -0.3696612,
+        "price": "$8.61"
+    },
+    {
+        "id": 35,
+        "place": "Antipolo",
+        "latitude": 14.5697565,
+        "longitude": 121.0247172,
+        "price": "$2.94"
+    },
+    {
+        "id": 36,
+        "place": "Sayán",
+        "latitude": -11.1374632,
+        "longitude": -77.1973997,
+        "price": "$3.28"
+    },
+    {
+        "id": 37,
+        "place": "Bugana",
+        "latitude": 7.99917,
+        "longitude": 7.58361,
+        "price": "$3.67"
+    },
+    {
+        "id": 38,
+        "place": "Jakartovice",
+        "latitude": 49.9114346,
+        "longitude": 17.6628187,
+        "price": "$3.15"
+    },
+    {
+        "id": 39,
+        "place": "Dinggou",
+        "latitude": 32.561794,
+        "longitude": 119.671018,
+        "price": "$5.78"
+    },
+    {
+        "id": 40,
+        "place": "San Jose",
+        "latitude": 37.34,
+        "longitude": -121.89,
+        "price": "$7.45"
+    },
+    {
+        "id": 41,
+        "place": "Pedregulho",
+        "latitude": -20.2562227,
+        "longitude": -47.4810384,
+        "price": "$6.17"
+    },
+    {
+        "id": 42,
+        "place": "Vilarinho das Cambas",
+        "latitude": 41.3929185,
+        "longitude": -8.5496995,
+        "price": "$0.24"
+    },
+    {
+        "id": 43,
+        "place": "Nagrumbuan",
+        "latitude": 16.8991985,
+        "longitude": 121.7075195,
+        "price": "$6.21"
+    },
+    {
+        "id": 44,
+        "place": "Bronx",
+        "latitude": 40.864318,
+        "longitude": -73.7977928,
+        "price": "$8.03"
+    },
+    {
+        "id": 45,
+        "place": "Lefkímmi",
+        "latitude": 39.42309,
+        "longitude": 20.0718612,
+        "price": "$2.08"
+    },
+    {
+        "id": 46,
+        "place": "Ikoma",
+        "latitude": 36.3197441,
+        "longitude": 139.7523465,
+        "price": "$6.42"
+    },
+    {
+        "id": 47,
+        "place": "Zhushan",
+        "latitude": 32.224808,
+        "longitude": 110.228747,
+        "price": "$8.76"
+    },
+    {
+        "id": 48,
+        "place": "Yixing",
+        "latitude": 31.340637,
+        "longitude": 119.823308,
+        "price": "$1.91"
+    },
+    {
+        "id": 49,
+        "place": "Elias Fausto",
+        "latitude": -23.0432476,
+        "longitude": -47.368765,
+        "price": "$4.00"
+    },
+    {
+        "id": 50,
+        "place": "Moorreesburg",
+        "latitude": -33.1519145,
+        "longitude": 18.6642088,
+        "price": "$2.70"
+    },
+    {
+        "id": 51,
+        "place": "Dhanot",
+        "latitude": 29.57991,
+        "longitude": 71.75213,
+        "price": "$0.54"
+    },
+    {
+        "id": 52,
+        "place": "Beylagan",
+        "latitude": 39.7723073,
+        "longitude": 47.6154166,
+        "price": "$3.87"
+    },
+    {
+        "id": 53,
+        "place": "Rudna Mała",
+        "latitude": 50.1214779,
+        "longitude": 21.9686719,
+        "price": "$5.40"
+    },
+    {
+        "id": 54,
+        "place": "Tonj",
+        "latitude": 7.2675115,
+        "longitude": 28.678979,
+        "price": "$3.10"
+    },
+    {
+        "id": 55,
+        "place": "Qal‘ah-ye Kuhnah",
+        "latitude": 32.61591,
+        "longitude": 63.66681,
+        "price": "$7.30"
+    },
+    {
+        "id": 56,
+        "place": "Sotomayor",
+        "latitude": -19.333333,
+        "longitude": -65,
+        "price": "$2.95"
+    },
+    {
+        "id": 57,
+        "place": "Tyrnyauz",
+        "latitude": 43.3911349,
+        "longitude": 42.9174509,
+        "price": "$6.51"
+    },
+    {
+        "id": 58,
+        "place": "Trikora",
+        "latitude": 0.4907958,
+        "longitude": 121.4713265,
+        "price": "$2.58"
+    },
+    {
+        "id": 59,
+        "place": "Nikol’sk",
+        "latitude": 53.6992181,
+        "longitude": 46.0481025,
+        "price": "$1.86"
+    },
+    {
+        "id": 60,
+        "place": "Duodaoshi",
+        "latitude": 30.958308,
+        "longitude": 112.194147,
+        "price": "$4.10"
+    },
+    {
+        "id": 61,
+        "place": "Shahkot",
+        "latitude": 31.5707334,
+        "longitude": 73.4895102,
+        "price": "$9.23"
+    },
+    {
+        "id": 62,
+        "place": "Kosti",
+        "latitude": 13.1234679,
+        "longitude": 32.650351,
+        "price": "$0.03"
+    },
+    {
+        "id": 63,
+        "place": "Igarapé Açu",
+        "latitude": -1.3964218,
+        "longitude": -48.4609448,
+        "price": "$0.81"
+    },
+    {
+        "id": 64,
+        "place": "Kang-neung",
+        "latitude": 37.751853,
+        "longitude": 128.8760574,
+        "price": "$6.13"
+    },
+    {
+        "id": 65,
+        "place": "Sintansin",
+        "latitude": 36.45361,
+        "longitude": 127.43111,
+        "price": "$5.03"
+    },
+    {
+        "id": 66,
+        "place": "Juan de Acosta",
+        "latitude": 10.8281332,
+        "longitude": -75.0961549,
+        "price": "$6.76"
+    },
+    {
+        "id": 67,
+        "place": "Studenec",
+        "latitude": 49.2001199,
+        "longitude": 16.0648122,
+        "price": "$6.13"
+    },
+    {
+        "id": 68,
+        "place": "Potok Złoty",
+        "latitude": 50.3095461,
+        "longitude": 17.5223977,
+        "price": "$5.11"
+    },
+    {
+        "id": 69,
+        "place": "Itaqui",
+        "latitude": -29.1294007,
+        "longitude": -56.5481122,
+        "price": "$7.96"
+    },
+    {
+        "id": 70,
+        "place": "Dobrica",
+        "latitude": 45.2075889,
+        "longitude": 20.8507302,
+        "price": "$0.78"
+    },
+    {
+        "id": 71,
+        "place": "Sumberrojokrajan",
+        "latitude": -7.643739,
+        "longitude": 110.284601,
+        "price": "$0.09"
+    },
+    {
+        "id": 72,
+        "place": "Burträsk",
+        "latitude": 64.6025198,
+        "longitude": 20.4852704,
+        "price": "$3.44"
+    },
+    {
+        "id": 73,
+        "place": "Opuzen",
+        "latitude": 43.0172612,
+        "longitude": 17.5644335,
+        "price": "$2.78"
+    },
+    {
+        "id": 74,
+        "place": "Wulongshan",
+        "latitude": 27.820107,
+        "longitude": 105.965695,
+        "price": "$9.49"
+    },
+    {
+        "id": 75,
+        "place": "Dmitrov",
+        "latitude": 56.2340628,
+        "longitude": 37.5182622,
+        "price": "$3.39"
+    },
+    {
+        "id": 76,
+        "place": "Canaries",
+        "latitude": 13.9047039,
+        "longitude": -61.0667869,
+        "price": "$7.77"
+    },
+    {
+        "id": 77,
+        "place": "Pesnica pri Mariboru",
+        "latitude": 46.6086054,
+        "longitude": 15.6758117,
+        "price": "$3.24"
+    },
+    {
+        "id": 78,
+        "place": "Pilar",
+        "latitude": 14.5925105,
+        "longitude": 121.0404991,
+        "price": "$7.82"
+    },
+    {
+        "id": 79,
+        "place": "Krasnomayskiy",
+        "latitude": 57.6194,
+        "longitude": 34.40988,
+        "price": "$6.40"
+    },
+    {
+        "id": 80,
+        "place": "Donghe",
+        "latitude": 40.576319,
+        "longitude": 110.044106,
+        "price": "$7.71"
+    },
+    {
+        "id": 81,
+        "place": "Kalkara",
+        "latitude": 35.8914242,
+        "longitude": 14.5320278,
+        "price": "$5.56"
+    },
+    {
+        "id": 82,
+        "place": "Houston",
+        "latitude": 29.7386119,
+        "longitude": -95.484013,
+        "price": "$9.80"
+    },
+    {
+        "id": 83,
+        "place": "Oslo",
+        "latitude": 59.9451756,
+        "longitude": 10.6392492,
+        "price": "$7.38"
+    },
+    {
+        "id": 84,
+        "place": "Wengtian",
+        "latitude": 19.928174,
+        "longitude": 110.883743,
+        "price": "$3.48"
+    },
+    {
+        "id": 85,
+        "place": "Bago City",
+        "latitude": 10.5712156,
+        "longitude": 122.944471,
+        "price": "$5.63"
+    },
+    {
+        "id": 86,
+        "place": "Bafatá",
+        "latitude": 12.1735243,
+        "longitude": -14.652952,
+        "price": "$4.83"
+    },
+    {
+        "id": 87,
+        "place": "Karachi",
+        "latitude": 24.8560587,
+        "longitude": 67.2164016,
+        "price": "$4.50"
+    },
+    {
+        "id": 88,
+        "place": "Anjirserapat",
+        "latitude": -3.233333,
+        "longitude": 114.533333,
+        "price": "$9.22"
+    },
+    {
+        "id": 89,
+        "place": "Liangbing",
+        "latitude": 43.193399,
+        "longitude": 128.7887591,
+        "price": "$3.02"
+    },
+    {
+        "id": 90,
+        "place": "Kajan",
+        "latitude": 40.9166667,
+        "longitude": 19.8833333,
+        "price": "$3.19"
+    },
+    {
+        "id": 91,
+        "place": "Shuiji",
+        "latitude": 27.415632,
+        "longitude": 118.347831,
+        "price": "$0.79"
+    },
+    {
+        "id": 92,
+        "place": "Ambatofinandrahana",
+        "latitude": -20.5501168,
+        "longitude": 46.8010727,
+        "price": "$5.61"
+    },
+    {
+        "id": 93,
+        "place": "Salamrejo",
+        "latitude": -8.0685658,
+        "longitude": 111.6809778,
+        "price": "$3.02"
+    },
+    {
+        "id": 94,
+        "place": "Zhenzhushan",
+        "latitude": 29.185721,
+        "longitude": 117.468181,
+        "price": "$3.03"
+    },
+    {
+        "id": 95,
+        "place": "Komyshuvakha",
+        "latitude": 47.7129895,
+        "longitude": 35.533341,
+        "price": "$6.28"
+    },
+    {
+        "id": 96,
+        "place": "Lengkongsari",
+        "latitude": -7.3251615,
+        "longitude": 108.230338,
+        "price": "$6.88"
+    },
+    {
+        "id": 97,
+        "place": "Samashki",
+        "latitude": 43.2900441,
+        "longitude": 45.3024464,
+        "price": "$2.04"
+    },
+    {
+        "id": 98,
+        "place": "Comagascas",
+        "latitude": 9.1374129,
+        "longitude": 125.5593311,
+        "price": "$9.91"
+    },
+    {
+        "id": 99,
+        "place": "Batudulang",
+        "latitude": -8.5895217,
+        "longitude": 117.2793685,
+        "price": "$8.07"
+    },
+    {
+        "id": 100,
+        "place": "Oslo",
+        "latitude": 59.960223,
+        "longitude": 10.7590006,
+        "price": "$8.40"
+    }
+]
