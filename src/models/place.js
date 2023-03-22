@@ -14,4 +14,21 @@ const PlaceSchema = new mongoose.Schema({
   updatedAt: { type: Date, default: Date.now },
 });
 
-module.exports = mongoose.model("Place", PlaceSchema);
+PlaceSchema.index({
+  place: 1,
+});
+
+PlaceSchema.index({
+  latitude: 1,
+});
+
+PlaceSchema.index({
+  longitude: 1,
+});
+
+PlaceSchema.index({
+  price: 1,
+});
+
+
+module.exports = mongoose.model("Places", PlaceSchema);

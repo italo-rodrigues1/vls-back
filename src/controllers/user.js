@@ -1,3 +1,4 @@
+const jwt = require("jsonwebtoken");
 const {
   allUsers,
   oneUser,
@@ -41,6 +42,8 @@ exports.logout = (req, res) => {
   if (req.body) {
     return res.status(400);
   }
+  console.log("logout");
+  const destroyJWT = jwt.destroy();
 
   return res.status(200).send({ auth: false, token: null });
 };

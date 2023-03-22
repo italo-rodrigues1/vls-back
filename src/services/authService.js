@@ -29,6 +29,7 @@ exports.registerUser = async (name, email, password) => {
     name: name,
     email: email,
   });
+
   console.log("findUsers", findUsers);
 
   if (!findUsers) {
@@ -42,7 +43,9 @@ exports.registerUser = async (name, email, password) => {
     if (newUser) {
       return authJwt(name, email);
     }
+    
     return "Error creating user";
   }
+
   return "User exists";
 };

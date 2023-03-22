@@ -8,4 +8,4 @@ const CompanySchema = new mongoose.Schema({
   updatedAt: { type: Date, default: Date.now },
 });
 
-module.exports = mongoose.model("Company", CompanySchema);
+module.exports = mongoose.model("Companys", CompanySchema);

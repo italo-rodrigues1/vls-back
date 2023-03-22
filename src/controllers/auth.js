@@ -46,7 +46,7 @@ exports.register = async (req, res) => {
 
   try {
     const authTokenRegister = await registerUser(name, email, password);
-
+    console.log("authTokenRegister", authTokenRegister);
     if (authTokenRegister === "User exists") {
       return res.json({ message: "User exists" });
     }

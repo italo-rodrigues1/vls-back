@@ -2,9 +2,8 @@ const express = require("express");
 const router = express.Router();
 const verifyJwt = require("../middlewares/jwtVerify");
 
-console.log("Aqui 2");
-router.use("/user", verifyJwt, require("./aplication/user"));
-router.use("/place", verifyJwt, require("./aplication/place"));
-router.use("/company", verifyJwt, require("./aplication/company"));
+router.use("/user", verifyJwt, require("./application/user"));
+router.use("/place", verifyJwt, require("./application/place"));
+router.use("/company", verifyJwt, require("./application/company"));
 
 module.exports = router;

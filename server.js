@@ -11,9 +11,9 @@ const dotenv = require("dotenv");
 global.appRoot = path.resolve(__dirname, "src");
 let envFile = ".env.localhost";
 
-// if (process.env.NODE_ENV === "localhost") {
-//   envFile = ".env.localhost";
-// }
+if (process.env.NODE_ENV === "production") {
+  envFile = ".env.dev";
+}
 
 global.appRoot = path.resolve(__dirname, "src");
 
@@ -50,7 +50,6 @@ mongoose
     app.use("/auth", require("./src/routes/auth"));
 
     app.use("/api", require("./src/routes"));
-    console.log("Aqui 1");
 
     //front server
     const root = path.join(__dirname, "public");
